@@ -135,3 +135,10 @@ print("=" * 60)
 
 for fact in sorted(facts):
     print(f"• {fact}")
+
+
+
+
+
+
+  
